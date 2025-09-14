@@ -2,6 +2,11 @@
 
 This is a basic Notepad application built using Java Swing. It allows users to create, open, edit, and save text files. The app also includes features like dark mode, word wrap, and a simple menu bar.
 
+##  Notes
+
+- This is a **simple Java GUI project** built using Swing.
+- You can also use **Eclipse WindowBuilder** to easily create this kind of UI with drag-and-drop features.
+
 ##  Features
 
 - Open, Save, Save As, and New Tab functions
